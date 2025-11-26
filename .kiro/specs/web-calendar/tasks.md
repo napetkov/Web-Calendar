@@ -25,7 +25,12 @@
   - Test database connection from Spring Boot
   - _Requirements: 6.1, 6.2_
 
-- [ ] 3. Implement User entity and repository
+- [x] 3. Implement User entity and repository
+
+
+
+
+
   - Create User entity with email, password, createdAt fields
   - Add JPA annotations and constraints
   - Create UserRepository interface with findByEmail and existsByEmail methods
